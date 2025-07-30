@@ -718,6 +718,7 @@ html, body { margin: 0; }
     .link{
         display: block;
         color: #3c0066;
+        justify-content: center;
     }
     .text-box{
         width: 64vw;
