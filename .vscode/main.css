@@ -715,6 +715,10 @@ html, body { margin: 0; }
     .right-timeline{
         left: 16%;
     }
+    .link{
+        display: block;
+        
+    }
     .text-box{
         width: 64vw;
     }
